@@ -12,18 +12,18 @@
       "iconUri": "https://opengraph.githubassets.com/1/iqui27/nuvio-native-legacy",
       "manifest": {
         "id": "space.nuvio.native.legacy",
-        "version": "1.1.2",
+        "version": "1.2.0",
         "type": "native",
         "title": "Nuvio",
         "appDescription": "Native Nuvio client for LG webOS.",
         "iconUri": "https://opengraph.githubassets.com/1/iqui27/nuvio-native-legacy",
         "sourceUrl": "https://github.com/iqui27/nuvio-native-legacy",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/iqui27/nuvio-native-legacy/releases/download/v1.1.2/space.nuvio.native.legacy_1.1.2_arm.ipk",
+        "ipkUrl": "https://github.com/iqui27/nuvio-native-legacy/releases/download/v1.2.0/space.nuvio.native.legacy_1.2.0_arm.ipk",
         "ipkHash": {
-          "sha256": "e88177996ad0c2efd890ef4aca2c12e612cb19cccde811ac8846bd38584db098"
+          "sha256": "22989b21d05967a4e288dd6b8ae73aea4d94c6e91acebdeb9fa5a72398174299"
         },
-        "ipkSize": 36521696
+        "ipkSize": 36546256
       },
       "pool": "main",
       "shortDescription": "Native Nuvio client for LG webOS.",
