@@ -57,7 +57,7 @@ jobs:
 
           # Derive the webOS application ID from the conventional IPK name:
           # <app-id>_<version>_arm.ipk
-          APP_ID="${IPK_NAME%_${VERSION}_arm.ipk}"
+          APP_ID="$(printf '%s' "$IPK_NAME" | sed -E 's/_[^_]+_arm\.ipk$//')"
 
           if [ "$APP_ID" = "$IPK_NAME" ]; then
             echo "Could not derive application ID from: $IPK_NAME"
