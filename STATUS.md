@@ -1,9 +1,9 @@
 # Nuvio repository status
 
-- Release: v2.0.6
-- Version: 2.0.6
-- Package: space.nuvio.native.legacy_2.0.6_arm.ipk
-- SHA-256: 57ac8cc92a7290cddcdaf73c833e4b436978a8160c228537ca13422bd84f1fc6
-- Size: 63774810 bytes
+- Release: v2.0.7
+- Version: 2.0.7
+- Package: space.nuvio.native.legacy_2.0.7_arm.ipk
+- SHA-256: 1f5cf84bad15de4d42099d68fcb36435961c032b756003206d4c0bb9430293e6
+- Size: 64509484 bytes
 
 Generated automatically by GitHub Actions.
