@@ -21,9 +21,9 @@
         "rootRequired": false,
         "ipkUrl": "https://github.com/iqui27/nuvio-native-legacy/releases/download/v2.0.7/space.nuvio.native.legacy_2.0.7_arm.ipk",
         "ipkHash": {
-          "sha256": "1f5cf84bad15de4d42099d68fcb36435961c032b756003206d4c0bb9430293e6"
+          "sha256": "ea1303b80c8bcff1946fc9a59d7df0df8f7ff3d8777c087f2191b2d30d19c24a"
         },
-        "ipkSize": 64509484
+        "ipkSize": 64509340
       },
       "pool": "main",
       "shortDescription": "Native Nuvio client for LG webOS.",
